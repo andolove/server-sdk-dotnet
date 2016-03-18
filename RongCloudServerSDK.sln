@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RongCloudServerSDK", "RongCloudServerSDK\RongCloudServerSDK.csproj", "{E9A5242E-1DA9-4B52-8299-E15F51D6ADFC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RongSDKDemo", "RongSDKDemo\RongSDKDemo.csproj", "{81F7447D-7D59-4924-88FB-A2333197BD98}"

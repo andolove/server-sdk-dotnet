@@ -14,3 +14,11 @@ F:\Project\dotnet\RongSDKDemo\bin\Debug\RongCloudServerSDK.pdb
 F:\Project\dotnet\RongSDKDemo\obj\Debug\RongSDKDemo.csprojResolveAssemblyReference.cache
 F:\Project\dotnet\RongSDKDemo\obj\Debug\RongSDKDemo.exe
 F:\Project\dotnet\RongSDKDemo\obj\Debug\RongSDKDemo.pdb
+E:\象屿房盟\xyfm-code\SDK\rongyun\server-sdk-dotnet\RongSDKDemo\bin\Debug\RongSDKDemo.exe.config
+E:\象屿房盟\xyfm-code\SDK\rongyun\server-sdk-dotnet\RongSDKDemo\bin\Debug\RongSDKDemo.exe
+E:\象屿房盟\xyfm-code\SDK\rongyun\server-sdk-dotnet\RongSDKDemo\bin\Debug\RongSDKDemo.pdb
+E:\象屿房盟\xyfm-code\SDK\rongyun\server-sdk-dotnet\RongSDKDemo\bin\Debug\RongCloudServerSDK.dll
+E:\象屿房盟\xyfm-code\SDK\rongyun\server-sdk-dotnet\RongSDKDemo\bin\Debug\RongCloudServerSDK.pdb
+E:\象屿房盟\xyfm-code\SDK\rongyun\server-sdk-dotnet\RongSDKDemo\obj\Debug\ResolveAssemblyReference.cache
+E:\象屿房盟\xyfm-code\SDK\rongyun\server-sdk-dotnet\RongSDKDemo\obj\Debug\RongSDKDemo.exe
+E:\象屿房盟\xyfm-code\SDK\rongyun\server-sdk-dotnet\RongSDKDemo\obj\Debug\RongSDKDemo.pdb
